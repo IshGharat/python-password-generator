@@ -13,7 +13,7 @@ To run this script, make sure you have Python installed on your system. No addit
 3. Run the script by executing the following command:
 
 ```
-python Generate_Password.py
+python Password_Generator.py
 ```
 
 
