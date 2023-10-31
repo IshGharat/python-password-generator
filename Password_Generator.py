@@ -1,4 +1,3 @@
-#CodeRunner.in
 import random
 import string
 
